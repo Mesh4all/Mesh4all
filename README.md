@@ -1,6 +1,6 @@
 
 <div align=center>
-    <img src="https://user-images.githubusercontent.com/82659700/142491536-0d37e0a5-4c58-483e-911b-746ae63ff67c.png" width=50%>
+    <img src="doc/media/m4a-logo.png" width=300px>
 </div>
 <br>
 
@@ -18,24 +18,24 @@
 <p align="justify">We Value the ability for anyone to communicate,  transact, and participate in a network without having a centralised entity acting as a gatekeeper for approval. MESH4ALL!
 </p>
 
-Take a look to all our bussiness lines.
+Take a look to all our subprojects
 <table align="center">
     <tr>
         <td>
-            <a href="#" align="center">
-                <img src="doc/media/M4all-comms fw.jpg" width="200px"style="margin: 20px; border-radius:4025">
+            <a href="https://github.com/Mesh4all/m4comm-firmware" align="center">
+                <img src="doc/media/m4comm_logo.png" width="200px"/>
                 <p>Comms</p>
             </a>
         </td>
         <td>
-            <a href="#" align="center">
-                <img src="doc/media/M4all-iot fw.jpg" width="200px" style="margin: 20px">
+            <a href="https://github.com/Mesh4all/m4iot-firmware" align="center">
+                <img src="doc/media/m4iot_logo.png" width="200px"/>
                 <p>IoT</p>
             </a>
         </td>
         <td>
-            <a href="#" align="center">
-                <img src="doc/media/M4all-pay fw.jpg" width="200px" style="margin: 20px">
+            <a href="https://github.com/Mesh4all/m4pay-firmware" align="center">
+                <img src="doc/media/m4pay_logo.png" width="200px"/>
                 <p>Pay</p>
             </a>
         </td>
@@ -43,19 +43,19 @@ Take a look to all our bussiness lines.
     <tr>
         <td>
             <a href="https://github.com/Mesh4all/m4ag-firmware" align="center">
-                <img src="doc/media/M4all-ag fw.jpg" width="200px" style="margin: 20px">
+                <img src="doc/media/m4ag_logo.png" width="200px"/>
                 <p>Agriculture</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4ag-firmware" align="center">
-                <img src="doc/media/M4all-city fw.jpg" width="200px" style="margin: 20px">
+            <a href="https://github.com/Mesh4all/m4city-firmware" align="center">
+                <img src="doc/media/m4city_logo.png" width="200px">
                 <p>City</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4ag-firmware" align="center">
-                <img src="doc/media/M4all-hw fw.jpg" width="200px" style="margin: 20px">
+            <a href="https://github.com/Mesh4all/m4hard-firmware" align="center">
+                <img src="doc/media/m4hard_logo.png" width="200px">
                 <p>Hardware</p>
             </a>
         </td>
@@ -82,9 +82,9 @@ Copyright (c) 2021 Mesh4all <mesh4all.org>
 
 <br>
 
-<p align="center"> 
+<p align="center">
     <a href='#'>Documentation</a> |
-    <a href='#'> Discord </a> | 
+    <a href='#'> Discord </a> |
     <a href='#'>Instalation</a> 
 </p>
 
