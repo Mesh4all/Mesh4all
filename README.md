@@ -1,6 +1,6 @@
 
 <div align=center>
-    <img src="doc/media/m4a-logo.png" width=300px>
+    <img src="doc/media/m4a-logo.png" width=250px>
 </div>
 <br>
 
