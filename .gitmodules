@@ -1,0 +1,6 @@
+[submodule "doc/repositories/m4a-firmware"]
+	path = doc/repositories/m4a-firmware
+	url = git@github.com:Mesh4all/m4a-firmware.git
+[submodule "doc/repositories/m4ag-firmware"]
+	path = doc/repositories/m4ag-firmware
+	url = git@github.com:Mesh4all/m4ag-firmware.git
