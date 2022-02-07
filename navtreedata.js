@@ -23,7 +23,10 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "Mesh4all", "index.html", [
-    [ "m4a reference firmware", "index.html", null ]
+    [ "Getting started", "index.html#getting_started_main", null ],
+    [ "Support", "index.html#support_main", null ],
+    [ "Project documentation", "index.html#project_documentation_main", null ],
+    [ "Legal", "index.html#legal_mainpage", null ]
   ] ]
 ];
 
