@@ -1,5 +1,11 @@
-## m4a reference firmware {#m4a_firmware_mainpage}
+# Mesh4all {#mesh4all_main}
 
 @tableofcontents
 
-### Getting started
+## Getting started {#getting_started_main}
+
+## Support {#support_main}
+
+## Project documentation {#project_documentation_main}
+
+## Legal {#legal_mainpage}
