@@ -2,7 +2,15 @@
 <div align=center>
     <img src="doc/media/m4a-logo.png" width=250px>
 </div>
-<br>
+<br/>
+<div align="center">
+    <a href="https://mesh4all.github.io/Mesh4all/">
+       <img src="https://img.shields.io/github/workflow/status/Mesh4all/Mesh4all/build-docs/main?label=documentation&color=%23ff4411">
+    </a>
+    <a href="http://www.apache.org/licenses/LICENSE-2.0">
+        <img src="https://img.shields.io/badge/license-Apache_License_2.0-blue">
+    </a>
+</div>
 
 <p align="justify">Mesh4all is dedicated to maintaining open-source software and hardware directories with appropriate documentation in multiple languages. To guarantee access to resilient, persistent mesh networks worldwide. We will also be tasked with disseminating the technology among faculty, students and businesses in developing nations where accessibility to the internet is limited and non-existent.
 </p>
