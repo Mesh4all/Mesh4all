@@ -92,7 +92,8 @@ Copyright (c) 2022 Mesh4all <mesh4all.org>
 
 <p align="center">
     <a href='#'>Documentation</a> |
-    <a href='https://t.me/mesh4all'> Telegram </a> 
+    <a href='https://t.me/mesh4all'> Telegram </a>  |
+    <a href="https://twitter.com/mesh4all"> Twitter </a>
 </p>
 
 
