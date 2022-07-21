@@ -30,19 +30,19 @@ Take a look to all our subprojects
 <table align="center">
     <tr>
         <td>
-            <a href="https://github.com/Mesh4all/m4comm-firmware" align="center">
+            <a href="https://mesh4all.org" align="center">
                 <img src="doc/media/m4comm_logo.png" width="200px"/>
                 <p>Comms</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4iot-firmware" align="center">
+            <a href="https://mesh4all.org" align="center">
                 <img src="doc/media/m4iot_logo.png" width="200px"/>
                 <p>IoT</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4pay-firmware" align="center">
+            <a href="https://mesh4all.org" align="center">
                 <img src="doc/media/m4pay_logo.png" width="200px"/>
                 <p>Pay</p>
             </a>
@@ -50,19 +50,19 @@ Take a look to all our subprojects
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Mesh4all/m4ag-firmware" align="center">
+            <a href="https://mesh4all.org" align="center">
                 <img src="doc/media/m4ag_logo.png" width="200px"/>
                 <p>Agriculture</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4city-firmware" align="center">
+            <a href="https://mesh4all.org" align="center">
                 <img src="doc/media/m4city_logo.png" width="200px">
                 <p>City</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4hard-firmware" align="center">
+            <a href="https://mesh4all.org" align="center">
                 <img src="doc/media/m4hard_logo.png" width="200px">
                 <p>Hardware</p>
             </a>
@@ -88,13 +88,14 @@ Copyright (c) 2021 Mesh4all <mesh4all.org>
 
 <p align= "justify">Licensed under the Apache License Version 2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</p>
 
+For more information reach us on:
 <br>
 
 <p align="center">
-    <a href='#'>Documentation</a> |
-    <a href='#'> Discord </a> |
-    <a href='#'>Instalation</a> 
+    <a href='https://t.me/mesh4all'> Telegram </a>  |
+    <a href="https://twitter.com/mesh4all"> Twitter </a> |
+    <a href="https://mesh4all.org"> Website </a>
 </p>
 
 
-For more information see our [official website](https://mesh4all.org), and you also could join us in the [discord]() and discuss with the development team.
+
