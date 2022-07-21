@@ -19,15 +19,7 @@ jobs:
     - uses: ammaraskar/sphinx-action@master
       with:
         build-command: "sphinx-build -b html . _build"
-        docs-folder: "docs/output/"
-    
-    # Great extra actions to compose with:
-    # Create an artifact of the html output.
-    - uses: actions/upload-artifact@v1
-      with:
-        name: DocumentationHTML
-        path: docs/_build/html/
-    # Publish built docs to gh-pages branch.
+        docs-folder: "docs/"
     # ===============================
     - name: Commit documentation changes
       run: |
