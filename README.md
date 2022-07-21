@@ -1,6 +1,6 @@
 
 <div align=center>
-    <img src="doc/media/m4a-logo.png" width=250px>
+    <img src="docs/media/m4a-logo.png" width=250px>
 </div>
 <br/>
 <div align="center">
@@ -30,40 +30,40 @@ Take a look to all our subprojects
 <table align="center">
     <tr>
         <td>
-            <a href="https://mesh4all.org" align="center">
-                <img src="doc/media/m4comm_logo.png" width="200px"/>
+            <a href="https://github.com/Mesh4all/m4comm-firmware" align="center">
+                <img src="docs/media/m4comm_logo.png" width="200px"/>
                 <p>Comms</p>
             </a>
         </td>
         <td>
-            <a href="https://mesh4all.org" align="center">
-                <img src="doc/media/m4iot_logo.png" width="200px"/>
+            <a href="https://github.com/Mesh4all/m4iot-firmware" align="center">
+                <img src="docs/media/m4iot_logo.png" width="200px"/>
                 <p>IoT</p>
             </a>
         </td>
         <td>
-            <a href="https://mesh4all.org" align="center">
-                <img src="doc/media/m4pay_logo.png" width="200px"/>
+            <a href="https://github.com/Mesh4all/m4pay-firmware" align="center">
+                <img src="docs/media/m4pay_logo.png" width="200px"/>
                 <p>Pay</p>
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://mesh4all.org" align="center">
-                <img src="doc/media/m4ag_logo.png" width="200px"/>
+            <a href="https://github.com/Mesh4all/m4ag-firmware" align="center">
+                <img src="docs/media/m4ag_logo.png" width="200px"/>
                 <p>Agriculture</p>
             </a>
         </td>
         <td>
-            <a href="https://mesh4all.org" align="center">
-                <img src="doc/media/m4city_logo.png" width="200px">
+            <a href="https://github.com/Mesh4all/m4city-firmware" align="center">
+                <img src="docs/media/m4city_logo.png" width="200px">
                 <p>City</p>
             </a>
         </td>
         <td>
-            <a href="https://mesh4all.org" align="center">
-                <img src="doc/media/m4hard_logo.png" width="200px">
+            <a href="https://github.com/Mesh4all/m4hard-firmware" align="center">
+                <img src="docs/media/m4hard_logo.png" width="200px">
                 <p>Hardware</p>
             </a>
         </td>
