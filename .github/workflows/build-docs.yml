@@ -16,7 +16,7 @@ jobs:
                           pip install sphinx-book-theme && \
                           pip install sphinx-icon
         build-command: "make html"
-        docs-folder: "docs/sphinx/source/"
+        docs-folder: "docs/sphinx/"
     # Commit and push changes to gh-pages branch
     - name: Commit documentation changes
       run: |
