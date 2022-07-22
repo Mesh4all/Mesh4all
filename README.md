@@ -1,6 +1,6 @@
 
 <div align=center>
-    <img src="docs/media/m4a-logo.png" width=250px>
+    <img src="docs/sphinx/source/static_files/images/m4a-logo.png" width=250px>
 </div>
 <br/>
 <div align="center">
