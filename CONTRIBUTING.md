@@ -30,11 +30,11 @@ To start with m4ag-firmware, we need to clone the repository:
 
 #### Via SSH:
 ```sh
-    git clone git@github.com:Mesh4all/Mesh4all.git
+git clone git@github.com:Mesh4all/Mesh4all.git
 ```
 #### Via HTTPS:
 ```sh
-    git clone https://github.com/Mesh4all/Mesh4all.git
+git clone https://github.com/Mesh4all/Mesh4all.git
 ```
 
 *Note:* We recommend cloning through SSH, due to external dependencies of some module
