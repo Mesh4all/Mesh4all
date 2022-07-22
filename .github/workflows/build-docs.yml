@@ -6,14 +6,15 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     # Build documentation
     - uses: ammaraskar/sphinx-action@master
       with:
+        pre-build-command: |
+                          pip install sphinx-book-theme && \
+                          pip install sphinx-icon
         build-command: "make html"
         docs-folder: "docs/sphinx/source/"
     # Commit and push changes to gh-pages branch
