@@ -18,7 +18,7 @@ and hardware directories with appropriate documentation in multiple languages.
 To guarantee access to resilient, persistent mesh networks worldwide. 
 We will also be tasked with disseminating the technology among faculty, students 
 and businesses in developing nations where accessibility to the internet is limited 
-and non-existent.
+and non-existent or anyone who cares about privacy, resilience or liberty
 
 :icon:`fa fa-marker` Purpose
 ----------------------------
