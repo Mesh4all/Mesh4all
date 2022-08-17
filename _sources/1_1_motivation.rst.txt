@@ -1,7 +1,5 @@
 .. 1_1_motivation.rst file, created on Aug 2022
 
-===
-
 1.1 Motivation
 ==============
 
@@ -27,3 +25,8 @@ En la primera se representan tres estaciones base que se comunican con sus corre
 Al contrario, en la Figura 1.1_b se exhibe una red ad hoc inalámbrica en la que los nodos no solo pueden ser dispositivos móviles, 
 sino que también pueden formar parte otros elementos como punto de acceso.
 ```
+====
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
