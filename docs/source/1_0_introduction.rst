@@ -1,9 +1,11 @@
+.. 1_0_introduction.rst, created on Aug, 2022
 
-1. Introducción
+===
+
+Introduction
 ===============
-needs some text
+
+~needs some text~~
 
 .. :toctree::
     :caption: Contents:
-
-    1_1_motivation
