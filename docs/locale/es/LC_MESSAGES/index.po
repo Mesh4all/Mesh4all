@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Mesh4all developers
+# This file is distributed under the same license as the Mesh4all package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mesh4all \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-17 14:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../source/index.rst:42
+msgid "Contents:"
+msgstr ""
+
+msgid "Mesh4all logo"
+msgstr ""
+
+#: ../../source/index.rst:14
+msgid "What is Mesh4all and why will you love it?"
+msgstr ""
+
+#: ../../source/index.rst:16
+msgid ""
+"Mesh4all is a collaborative effort, dedicated to maintaining open-source "
+"software and hardware directories with appropriate documentation in "
+"multiple languages. To guarantee access to resilient, persistent mesh "
+"networks worldwide. We will also be tasked with disseminating the "
+"technology among faculty, students and businesses in developing nations "
+"where accessibility to the internet is limited and non-existent or anyone"
+" who cares about privacy, resilience or liberty"
+msgstr ""
+
+#: ../../source/index.rst:24
+msgid ":icon:`fa fa-marker` Purpose"
+msgstr ""
+
+#: ../../source/index.rst:26
+msgid ""
+"Our main purpose is to expand web accessibility to users worldwide via an"
+" open-source repository for Mesh software and hardware for M4, via "
+"unfettered, resilient connectivity to a open mesh through devices of all "
+"kind proprietary, open and DIY. We will contribute towards the adoption "
+"of M4 and its devices."
+msgstr ""
+
+#: ../../source/index.rst:29
+msgid ":icon:`fa fa-rocket` Mision"
+msgstr ""
+
+#: ../../source/index.rst:31
+msgid ""
+"Our Mission is to expand the mesh, M4, for any and all peoples and "
+"organizations in a permissionless manner via our open source software and"
+" hardware community run repositories. We will also actively invest any "
+"proceeds into hardware research and code/functionality that run on the "
+"mesh."
+msgstr ""
+
+#: ../../source/index.rst:34
+msgid ":icon:`fa fa-bullseye` Vision"
+msgstr ""
+
+#: ../../source/index.rst:36
+msgid ""
+"Our Vision is a worldwide mesh network that can be easily accessed by "
+"anyone at very low cost or no cost at all with low energy consumption "
+"open hardware devices."
+msgstr ""
+
+#: ../../source/index.rst:38
+msgid "Under active development, things are changing fast :icon:`fa fa-bolt`"
+msgstr ""
+
+#: ../../source/index.rst:52
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:54
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:55
+msgid ":ref:`search`"
+msgstr ""
+

@@ -14,7 +14,6 @@ import os
 import sys
 
 sys.path.insert(0, os.path.abspath('.'))
-sys.path.append(os.path.join('../src'))
 
 # -- Project information -----------------------------------------------------
 
@@ -37,7 +36,11 @@ source_suffix = {
 extensions = ['sphinx.ext.todo', 'sphinxcontrib.icon']
 
 # List of patterns, relative to source directory, that match files and
-# directories to ignore when looking for source files.
+# directories to INCLUDE when looking for source files.
+#include_patterns = []
+
+# List of patterns, relative to source directory, that match files and
+# directories to IGNORE when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
@@ -57,3 +60,10 @@ html_logo = 'static_files/images/m4a-logo.svg'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['templates']
+
+# Localization options
+# $ pip install sphinx-intl
+#
+# The following path is an example but recommended
+locale_dirs = ['../../locale/']
+
