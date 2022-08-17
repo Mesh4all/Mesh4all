@@ -21,17 +21,17 @@ and businesses in developing nations where accessibility to the internet is limi
 and non-existent or anyone who cares about privacy, resilience or liberty
 
 :icon:`fa fa-marker` Purpose
-----------------------------
+============================
 
 Our main purpose is to expand web accessibility to users worldwide via an open-source repository for Mesh software and hardware for M4, via unfettered, resilient connectivity to a open mesh through devices of all kind proprietary, open and DIY. We will contribute towards the adoption of M4 and its devices.
 
 :icon:`fa fa-rocket` Mision
----------------------------
+===========================
 
 Our Mission is to expand the mesh, M4, for any and all peoples and organizations in a permissionless manner via our open source software and hardware community run repositories. We will also actively invest any proceeds into hardware research and code/functionality that run on the mesh.
 
 :icon:`fa fa-bullseye` Vision 
--------------------------------------
+=============================
 
 Our Vision is a worldwide mesh network that can be easily accessed by anyone at very low cost or no cost at all with low energy consumption open hardware devices.
 
@@ -42,3 +42,11 @@ Our Vision is a worldwide mesh network that can be easily accessed by anyone at 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   contributing
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`search`
