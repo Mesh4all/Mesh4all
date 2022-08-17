@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>&lt;no title&gt;</title>
+    <title>Contributing</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -34,6 +34,7 @@
     <script src="_static/../_font/fontawesome/js/all.min.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="What is Mesh4all and why will you love it?" href="index.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -83,7 +84,26 @@
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search the docs ..." aria-label="Search the docs ..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Contents:
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active has-children">
+  <a class="current reference internal" href="#">
+   Contributing
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="simple">
+  </ul>
+ </li>
+</ul>
+
     </div>
 </nav></div>
         <div class="bd-sidebar__bottom">
@@ -213,7 +233,14 @@ title="Print to PDF"
         <i class="fas fa-list"></i> Contents
     </div>
     <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="simple visible nav section-nav flex-column">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#where-the-code-grows">
+   <i class="fa fa-seeding">
+   </i>
+   Where the code grows
+  </a>
+ </li>
 </ul>
 
     </nav>
@@ -223,7 +250,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1><no title></h1>
+                <h1>Contributing</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -232,7 +259,14 @@ title="Print to PDF"
                             <h2> Contents </h2>
                         </div>
                         <nav aria-label="Page">
-                            <ul class="simple visible nav section-nav flex-column">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#where-the-code-grows">
+   <i class="fa fa-seeding">
+   </i>
+   Where the code grows
+  </a>
+ </li>
 </ul>
 
                         </nav>
@@ -243,43 +277,24 @@ title="Print to PDF"
                 
               <div>
                 
-  <p># Contributing to Mesh4all</p>
-<p>Welcome to contribute to Mesh4all, all ideas are welcome, feel free to share your requirements, comments, bugs or problems.
-Remember that the main idea is to connect everyone and everything around us.</p>
-<p>Check all the following sections according to the requirement you need.</p>
+  <div class="section" id="contributing">
+<h1>Contributing<a class="headerlink" href="#contributing" title="Permalink to this headline">#</a></h1>
+<p>Thank you for taking your the time for contributing. We <i class="fa fa-heart"></i> your input or fix of any kind, whether it’s:</p>
 <ul class="simple">
-<li><p>&lt;a href=”#titlegs”&gt;Getting Started&lt;/a&gt;</p></li>
-<li><p>&lt;a href=”#titlebrfr”&gt; Bug Reports and Feature Request&lt;/a&gt;</p></li>
-<li><p>&lt;a href=”#titlecc”&gt; Contributing Code&lt;/a&gt;</p></li>
+<li><p>Reporting bugs</p></li>
+<li><p>Discussing the current state of the code</p></li>
+<li><p>Submitting a code fix</p></li>
+<li><p>Proposing new features</p></li>
+<li><p>Talking about us among your friends or on your social networks</p></li>
 </ul>
-<p>&lt;br&gt;</p>
-<p>&lt;h2 id=”titlegs”&gt; Getting Started &lt;/h2&gt;</p>
-<p>—</p>
-<p>if you are starting to work with mesh4all, you can read our documentation, and you will know all supported boards, and resources.</p>
-<p>First Steps:
-1. Cloning
-2. Update submodules.</p>
-<p>&lt;br&gt;
-To start with m4ag-firmware, we need to clone the repository:</p>
-<p>&lt;br&gt;</p>
-<p>### 1. Cloning</p>
-<p>#### Via SSH:
-<code class="docutils literal notranslate"><span class="pre">`sh</span>
-<span class="pre">git</span> <span class="pre">clone</span> <span class="pre">git&#64;github.com:Mesh4all/Mesh4all.git</span>
-<span class="pre">`</span></code>
-#### Via HTTPS:
-<code class="docutils literal notranslate"><span class="pre">`sh</span>
-<span class="pre">git</span> <span class="pre">clone</span> <span class="pre">https://github.com/Mesh4all/Mesh4all.git</span>
-<span class="pre">`</span></code></p>
-<p><em>Note:</em> We recommend cloning through SSH, due to external dependencies of some module</p>
-<p>&lt;br&gt;</p>
-<p>&lt;h2 id=”titlebrfr”&gt;  Bug Reports and Feature Request &lt;/h2&gt;</p>
-<p>—
-[This link allows you to generate a bug report or a feature request, you will take the option you want.](<a class="reference external" href="https://github.com/Mesh4all/Mesh4all/issues/new/choose">https://github.com/Mesh4all/Mesh4all/issues/new/choose</a>)</p>
-<p>if you have started to work with the firmware, and some kind of [bugs or issues](<a class="reference external" href="https://github.com/Mesh4all/m4a-firmware/issues/new?assignees=&amp;labels=&amp;template=bug_report.md">https://github.com/Mesh4all/m4a-firmware/issues/new?assignees=&amp;labels=&amp;template=bug_report.md</a>) has occurred during the process, please do not hesitate to report it describing it. (We recommend following the structure given by github).</p>
-<p>Similarly, if you want to generate a [feature request](<a class="reference external" href="https://github.com/Mesh4all/Mesh4all/issues/new?assignees=&amp;labels=&amp;template=feature_request.md">https://github.com/Mesh4all/Mesh4all/issues/new?assignees=&amp;labels=&amp;template=feature_request.md</a>) that could complement and help improve the firmware.</p>
-<p><em>Please, before generating a bug report or a feature request, verify that it’s not present in the [list of issues](https://github.com/Mesh4all/Mesh4all/issues)</em></p>
-<p>&lt;br&gt;</p>
+<div class="section" id="where-the-code-grows">
+<h2><i class="fa fa-seeding"></i> Where the code grows<a class="headerlink" href="#where-the-code-grows" title="Permalink to this headline">#</a></h2>
+<p>We use github to host code and documentation, to track issues and feature requests, as well as accept pull requests.</p>
+<hr class="docutils" />
+<div class="toctree-wrapper compound">
+</div>
+</div>
+</div>
 
 
               </div>
@@ -289,6 +304,13 @@ To start with m4ag-firmware, we need to clone the repository:</p>
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="index.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">What is Mesh4all and why will you love it?</p>
+        </div>
+    </a>
 </div>
             </footer>
         </div>
