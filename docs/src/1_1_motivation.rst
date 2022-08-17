@@ -1,4 +1,6 @@
-### 1.1 Motivación
+--------------
+1.1 Motivación
+--------------
 
 A pesar de los grandes avances en las tecnologías de telecomunicaciones, es evidente la susceptibilidad de las mismas. No solo hablamos de tecnologías, sino de las personas, quienes son vulnerables a los efectos secundarios del aislamiento comunicacional resultante de la centralización y regulación de los estándares de comunicación global.
 
