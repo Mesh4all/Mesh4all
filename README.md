@@ -1,15 +1,13 @@
 
 <div align=center>
-    <img src="docs/sphinx/source/static_files/images/m4a-logo.png" width=250px>
+    <img src="docs/source/static_files/images/m4a-logo.png" width=250px>
 </div>
 <br/>
 <div align="center">
-    <a href="https://mesh4all.github.io/Mesh4all/">
-       <img src="https://img.shields.io/github/workflow/status/Mesh4all/Mesh4all/build-docs/main?label=documentation&color=%23ff4411">
-    </a>
-    <a href="http://www.apache.org/licenses/LICENSE-2.0">
-        <img src="https://img.shields.io/badge/license-Apache_License_2.0-blue">
-    </a>
+
+[![Documentation](https://img.shields.io/github/actions/workflow/status/Mesh4all/Mesh4all/build-docs.yml?branch=main&label=documentation&color=%23ff4411")](https://mesh4all.github.io/Mesh4all/)
+[![License](https://img.shields.io/badge/license-Apache_License_2.0-blue)](http://www.apache.org/licenses/LICENSE-2.0)
+
 </div>
 
 <p align="justify">Mesh4all is dedicated to maintaining open-source software and hardware directories with appropriate documentation in multiple languages. To guarantee access to resilient, persistent mesh networks worldwide. We will also be tasked with disseminating the technology among faculty, students and businesses in developing nations where accessibility to the internet is limited and non-existent.
@@ -31,19 +29,19 @@ Take a look to all our subprojects
     <tr>
         <td>
             <a href="https://github.com/Mesh4all/m4comm-firmware" align="center">
-                <img src="docs/media/m4comm_logo.png" width="200px"/>
+                <img src="docs/source/static_files/images/m4comm_logo.png" width="200px"/>
                 <p>Comms</p>
             </a>
         </td>
         <td>
             <a href="https://github.com/Mesh4all/m4iot-firmware" align="center">
-                <img src="docs/media/m4iot_logo.png" width="200px"/>
+                <img src="docs/source/static_files/images/m4iot_logo.png" width="200px"/>
                 <p>IoT</p>
             </a>
         </td>
         <td>
             <a href="https://github.com/Mesh4all/m4pay-firmware" align="center">
-                <img src="docs/media/m4pay_logo.png" width="200px"/>
+                <img src="docs/source/static_files/images/m4pay_logo.png" width="200px"/>
                 <p>Pay</p>
             </a>
         </td>
@@ -51,19 +49,19 @@ Take a look to all our subprojects
     <tr>
         <td>
             <a href="https://github.com/Mesh4all/m4ag-firmware" align="center">
-                <img src="docs/media/m4ag_logo.png" width="200px"/>
+                <img src="docs/source/static_files/images/m4ag_logo.png" width="200px"/>
                 <p>Agriculture</p>
             </a>
         </td>
         <td>
             <a href="https://github.com/Mesh4all/m4city-firmware" align="center">
-                <img src="docs/media/m4city_logo.png" width="200px">
+                <img src="docs/source/static_files/images/m4city_logo.png" width="200px">
                 <p>City</p>
             </a>
         </td>
         <td>
             <a href="https://github.com/Mesh4all/m4hard-firmware" align="center">
-                <img src="docs/media/m4hard_logo.png" width="200px">
+                <img src="docs/source/static_files/images/m4hard_logo.png" width="200px">
                 <p>Hardware</p>
             </a>
         </td>
