@@ -28,19 +28,19 @@ Take a look to all our subprojects
 <table align="center">
     <tr>
         <td>
-            <a href="https://github.com/Mesh4all/m4comm-firmware" align="center">
+            <a href="https://mesh4all.org/#services" align="center">
                 <img src="docs/source/static_files/images/m4comm_logo.png" width="200px"/>
                 <p>Comms</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4iot-firmware" align="center">
+            <a href="https://mesh4all.org/#services" align="center">
                 <img src="docs/source/static_files/images/m4iot_logo.png" width="200px"/>
                 <p>IoT</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4pay-firmware" align="center">
+            <a href="https://mesh4all.org/#services" align="center">
                 <img src="docs/source/static_files/images/m4pay_logo.png" width="200px"/>
                 <p>Pay</p>
             </a>
@@ -48,19 +48,19 @@ Take a look to all our subprojects
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Mesh4all/m4ag-firmware" align="center">
+            <a href="https://mesh4all.org/#services" align="center">
                 <img src="docs/source/static_files/images/m4ag_logo.png" width="200px"/>
                 <p>Agriculture</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4city-firmware" align="center">
+            <a href="https://mesh4all.org/#services" align="center">
                 <img src="docs/source/static_files/images/m4city_logo.png" width="200px">
                 <p>City</p>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Mesh4all/m4hard-firmware" align="center">
+            <a href="https://mesh4all.org/#services" align="center">
                 <img src="docs/source/static_files/images/m4hard_logo.png" width="200px">
                 <p>Hardware</p>
             </a>
